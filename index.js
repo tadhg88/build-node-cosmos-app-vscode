@@ -1,1 +1,2 @@
-console.log("hello world");
+//@ts-check
+var question = require("readline-sync").question;
