@@ -1,0 +1,12 @@
+{
+  "name": "build-node-cosmos-app-vscode",
+  "version": "1.0.0",
+  "description": "my desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
